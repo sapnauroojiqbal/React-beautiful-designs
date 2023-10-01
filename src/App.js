@@ -18,6 +18,10 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <div>
+       // call your component here
+      </div>
     </div>
   );
 }
